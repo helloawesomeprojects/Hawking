@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <!--
 	
-	html5up.net | @ajlkn
+
 
 -->
 <html>
