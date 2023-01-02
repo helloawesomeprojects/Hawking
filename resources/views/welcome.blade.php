@@ -1,10 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	
 
-
--->
-<html>
 	<head>
 		<title>Hawking - Hamma shuyerda</title>
 		<meta charset="utf-8" />
